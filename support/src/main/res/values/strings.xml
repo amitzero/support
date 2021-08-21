@@ -1,0 +1,9 @@
+<resources>
+    <string name="version_sample">Version: 0.0.1</string>
+    <string name="app_name_sample">Support Library</string>
+    <string name="give_feedback">Give Feedback</string>
+    <string name="developer">Developer</string>
+    <string name="description">Hi there, I\'m a developer with a powerful desire to build something adictive. \n \nIf you have any questions or suggestions, don\'t hasitate to contact me.</string>
+    <string name="amit_hasan">Amit Hasan</string>
+    <string name="empty">(null)</string>
+</resources>
